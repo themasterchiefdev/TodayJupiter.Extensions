@@ -1,10 +1,10 @@
 ﻿using System;
 using FluentAssertions;
-using TodayJupiter.Extensions.UriBuilder.OData;
+using TodayJupiter.Extensions.UriBuilder.OData.FilterBy;
 using TodayJupiter.ExtensionsUnitTests.TestData;
 using Xunit;
 
-namespace TodayJupiter.ExtensionsUnitTests.UriBuilder.OData
+namespace TodayJupiter.ExtensionsUnitTests.UriBuilder.OData.FilterBy
 {
     public class FilterByQueryParamTests
     {

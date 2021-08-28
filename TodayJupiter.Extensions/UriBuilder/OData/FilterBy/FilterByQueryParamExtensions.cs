@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Linq;
-using System.Web;
-namespace TodayJupiter.Extensions.UriBuilder.OData
+
+namespace TodayJupiter.Extensions.UriBuilder.OData.FilterBy
 {
     public static partial class FilterByQueryParamExtensions
     {
